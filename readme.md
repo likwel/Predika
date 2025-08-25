@@ -8,7 +8,7 @@ Un projet **AutoML** permettant de charger un jeu de données, de prétraiter le
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/likwel/pdv-v2.0.git
+git clone https://github.com/likwel/Predika.git
 cd automl
 ```
 
